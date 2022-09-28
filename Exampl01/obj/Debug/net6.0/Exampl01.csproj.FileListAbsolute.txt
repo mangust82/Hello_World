@@ -1,0 +1,15 @@
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\bin\Debug\net6.0\Exampl01.exe
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\bin\Debug\net6.0\Exampl01.deps.json
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\bin\Debug\net6.0\Exampl01.runtimeconfig.json
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\bin\Debug\net6.0\Exampl01.dll
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\bin\Debug\net6.0\Exampl01.pdb
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\Exampl01.csproj.AssemblyReference.cache
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\Exampl01.GeneratedMSBuildEditorConfig.editorconfig
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\Exampl01.AssemblyInfoInputs.cache
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\Exampl01.AssemblyInfo.cs
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\Exampl01.csproj.CoreCompileInputs.cache
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\Exampl01.dll
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\refint\Exampl01.dll
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\Exampl01.pdb
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\Exampl01.genruntimeconfig.cache
+D:\my doc\Обучение\Бизнесс аналитик\3_Знакомство с языками программирования\Урок_1\Lesson_1\Exampl01\obj\Debug\net6.0\ref\Exampl01.dll
